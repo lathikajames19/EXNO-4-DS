@@ -24,6 +24,29 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![1](https://github.com/user-attachments/assets/622918cf-5f11-41fe-8adc-d108dcadcc25)
+![2](https://github.com/user-attachments/assets/7fcb29bf-f0d6-4f42-b10e-f763a3899093)
+![3](https://github.com/user-attachments/assets/9a7eb8bc-ef5c-413f-8d5b-18e90a5dee2b)
+![4](https://github.com/user-attachments/assets/19a51ced-3234-4a60-bf75-63fabee5c566)
+![5](https://github.com/user-attachments/assets/54365b4b-d75b-4c95-b62f-ecc6c299bc43)
+![6](https://github.com/user-attachments/assets/4cd45a44-93c0-4c5e-b99c-d13a1f7ecf91)
+![7](https://github.com/user-attachments/assets/9fd4db4f-0498-4961-9254-53105dad7375)
+![8](https://github.com/user-attachments/assets/69bd9aaa-e6c6-4a63-a213-c63ea93e2612)
+![9](https://github.com/user-attachments/assets/395f80eb-3acc-4f67-8f5f-c57c5b5a6810)
+![10](https://github.com/user-attachments/assets/1e79b921-9cf3-46e5-88bf-036fc2780512)
+![11](https://github.com/user-attachments/assets/770692c7-cd7c-40f7-89b7-9362b4239344)
+![12](https://github.com/user-attachments/assets/13ea0d3c-522a-4ada-9948-aabdf88b6010)
+![13](https://github.com/user-attachments/assets/3ab474ca-7a76-41c7-8dd2-fe179631896b)
+![14](https://github.com/user-attachments/assets/6beee51a-5783-4ca6-a1ae-f14f375bb9ef)
+![15](https://github.com/user-attachments/assets/a7fea813-aa34-40d2-93a5-346be8c27109)
+![16](https://github.com/user-attachments/assets/29263502-ece6-4488-8311-ef901cf46b65)
+![17](https://github.com/user-attachments/assets/9b6d4ba9-c0eb-42e2-9a3c-28476ea92108)
+![18](https://github.com/user-attachments/assets/040bc484-0d93-4024-9590-f827b8ea0685)
+![19](https://github.com/user-attachments/assets/8fb33b5e-5fb3-4990-943b-986b82ac3325)
+![20](https://github.com/user-attachments/assets/43b52bd8-3c8b-403c-bfca-05bf62dfa485)
+![21](https://github.com/user-attachments/assets/6efe2294-b986-4a3a-9566-aa20e51ca0c4)
+![22](https://github.com/user-attachments/assets/f911877e-6dc8-4ea0-8fcb-1125aac12a99)
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+       The Experiment is executed successfully.
